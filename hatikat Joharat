@@ -1,0 +1,6 @@
+This app allows to communication with ourself
+Our stack is :
+     -Flutter(framwork) that we have installed bu fllowing this tutoriel : https://docs.flutter.dev/get-started/install/windows/mobile?tab=later-start
+     -Android Studio(IDE) associtaed with the Flutter SDK
+     -Git for the versioning
+     -Github for the cloud repository
